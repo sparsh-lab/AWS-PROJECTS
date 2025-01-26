@@ -1,4 +1,4 @@
-# AWS-PROJECTS
+# AWS-PROJECT
 # Deploy Scalable Web Servers Using AWS EC2 
 This project is stored on Google Drive.  
 [Click here to download]
